@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<server>
+<vars>
+    <var name="TT_BBT1" value="4.32292" quality="192"/>
+    <var name="GVS_BBT1" value="false" quality="192"/>
+    <var name="A_23" value="true" quality="0"/>
+    <var name="A_43" value="03.32" quality="0"/>
+</vars>
+</server>
